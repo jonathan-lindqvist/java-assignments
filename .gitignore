@@ -1,0 +1,8 @@
+.idea
+neighbours/.idea/*
+neighbours/out/*
+neighbours/neighbours.iml
+out/production/neighbours/*
+pig/.idea/*
+pig/out/*
+pig/pig.iml 
