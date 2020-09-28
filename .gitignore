@@ -6,3 +6,7 @@ out/production/neighbours/*
 pig/.idea/*
 pig/out/*
 pig/pig.iml 
+calculator/calculator.iml
+calculator/calculator/calc.iml
+calculator/calculator/out/*
+calculator/calculator/.idea/*
