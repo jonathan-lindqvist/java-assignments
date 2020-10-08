@@ -10,3 +10,8 @@ calculator/calculator.iml
 calculator/calculator/calc.iml
 calculator/calculator/out/*
 calculator/calculator/.idea/*
+/out/
+pong/pong.iml
+pong/pong/pong.iml
+pong/pong/out/*
+pong/pong/.idea/*
