@@ -1,4 +1,4 @@
-package pong;
+package test.pong;
 
 import pong.model.Ball;
 
